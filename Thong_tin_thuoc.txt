@@ -1,0 +1,19 @@
+Paracetamol, T001, Giam dau, 5000, 100  
+Aspirin, T002, Chong viem, 6000, 50  
+Ibuprofen, T003, Khang viem, 7000, 80  
+Amoxicillin, T004, Khang sinh, 15000, 40  
+Cetirizine, T005, Di ung, 5000, 20  
+Vitamin C, T006, Bo sung, 1000, 200  
+Acetaminophen, T007, Giam dau, 5500, 120  
+Ciprofloxacin, T008, Khang sinh, 20000, 30  
+Metformin, T009, Tieu duong, 18000, 60  
+Omeprazole, T010, Da day, 10000, 45  
+Clarithromycin, T011, Khang sinh, 22000, 25  
+Doxycycline, T012, Khang sinh, 16000, 70  
+Fexofenadine, T013, Di ung, 7000, 90  
+Prednisolone, T014, Chong viem, 9000, 35  
+Loratadine, T015, Di ung, 8000, 150  
+Esomeprazole, T016, Da day, 11000, 55  
+Simvastatin, T017, Mo mau, 12000, 85  
+Naproxen, T018, Giam dau, 6500, 60  
+Clopidogrel, T019, Tim mạch, 30000, 50  

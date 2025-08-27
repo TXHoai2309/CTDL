@@ -1,0 +1,212 @@
+KH002, KH Sua, 456 DEF Street, 0123456789, 5, 
+KH003, Tran Van C, 789 GHI Street, 0345678901, 5, 
+KH004, Pham Thi D, 321 JKL Street, 0981122334, 5, 
+KH005, Nguyen Van E, 654 MNO Street, 0123456677, 5, 
+KH006, Le Thi F, 987 PQR Street, 0932233445, 5, 
+KH007, Tran Van G, 111 STU Street, 0345567788, 5, 
+KH008, Hoang Thi H, 222 VWX Street, 0966778899, 5, 
+KH009, Dang Van I, 333 YZA Street, 0378899001, 5, 
+KH010, Phan Thi J, 444 BCD Street, 0983344556, 5, 
+KH011, Vu Van K, 555 EFG Street, 0945566778, 5, 
+KH012, Nguyen Thi L, 666 HIJ Street, 0356677889, 5, 
+KH013, Tran Van M, 777 KLM Street, 0367788990, 5, 
+Mã Nhân Viên: NV010
+Họ Tên: Tran Van J
+Chức Vụ: Nhan Vien
+Phòng Ban: Kho Hang
+Ngày Sinh: 27/2/1994
+Số Điện Thoại: 0966778899
+Địa Chỉ: Hai Phong
+Lương Cơ Bản: 9.2e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV005
+Họ Tên: Nguyen Van E
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 13/3/1993
+Số Điện Thoại: 0977885544
+Địa Chỉ: Binh Duong
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV002
+Họ Tên: Tran Thi B
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 22/10/1985
+Số Điện Thoại: 0987654321
+Địa Chỉ: TP HCM
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV001
+Họ Tên: Nguyen Van A
+Chức Vụ: Truong Phong
+Phòng Ban: Kinh Doanh
+Ngày Sinh: 15/5/1980
+Số Điện Thoại: 0912345678
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 1.5e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV004
+Họ Tên: Pham Thi D
+Chức Vụ: Nhan Vien
+Phòng Ban: Kho Hang
+Ngày Sinh: 5/6/1992
+Số Điện Thoại: 0944332211
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 9.5e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV003
+Họ Tên: Le Van C
+Chức Vụ: Nhan Vien
+Phòng Ban: Ke Toan
+Ngày Sinh: 9/1/1990
+Số Điện Thoại: 0911223344
+Địa Chỉ: Da Nang
+Lương Cơ Bản: 9.5e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV007
+Họ Tên: Le Thi G
+Chức Vụ: Truong Phong
+Phòng Ban: IT
+Ngày Sinh: 30/9/1984
+Số Điện Thoại: 0922334455
+Địa Chỉ: Da Nang
+Lương Cơ Bản: 1.2e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV006
+Họ Tên: Tran Van F
+Chức Vụ: Nhan Vien
+Phòng Ban: Kho Hang
+Ngày Sinh: 21/12/1987
+Số Điện Thoại: 0933556677
+Địa Chỉ: Can Tho
+Lương Cơ Bản: 9.5e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV008
+Họ Tên: Pham Van H
+Chức Vụ: Truong Phong
+Phòng Ban: Ke Toan
+Ngày Sinh: 18/11/1978
+Số Điện Thoại: 0909876543
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 1.6e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV009
+Họ Tên: Nguyen Thi I
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 12/7/1991
+Số Điện Thoại: 0915567788
+Địa Chỉ: TP HCM
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV015
+Họ Tên: Tran Thi O
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 14/11/1993
+Số Điện Thoại: 0966332211
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV012
+Họ Tên: Nguyen Van L
+Chức Vụ: Truong Phong
+Phòng Ban: Kho Hang
+Ngày Sinh: 19/8/1982
+Số Điện Thoại: 0988111222
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 1.4e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV011
+Họ Tên: Do Thi K
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 5/4/1995
+Số Điện Thoại: 0933112233
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV013
+Họ Tên: Le Thi M
+Chức Vụ: Nhan Vien
+Phòng Ban: Ke Toan
+Ngày Sinh: 25/12/1990
+Số Điện Thoại: 0911445566
+Địa Chỉ: Da Nang
+Lương Cơ Bản: 9.5e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV014
+Họ Tên: Pham Van N
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 30/7/1992
+Số Điện Thoại: 0922556677
+Địa Chỉ: TP HCM
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV018
+Họ Tên: Le Thi R
+Chức Vụ: Pho Phong
+Phòng Ban: Kinh Doanh
+Ngày Sinh: 12/3/1983
+Số Điện Thoại: 0933885566
+Địa Chỉ: Da Nang
+Lương Cơ Bản: 1.3e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV016
+Họ Tên: Nguyen Van P
+Chức Vụ: Nhan Vien
+Phòng Ban: IT
+Ngày Sinh: 10/2/1989
+Số Điện Thoại: 0944556677
+Địa Chỉ: Binh Duong
+Lương Cơ Bản: 1e+07
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV017
+Họ Tên: Do Van Q
+Chức Vụ: Nhan Vien
+Phòng Ban: Kho Hang
+Ngày Sinh: 22/5/1988
+Số Điện Thoại: 0911992233
+Địa Chỉ: Can Tho
+Lương Cơ Bản: 9.5e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV019
+Họ Tên: Nguyen Van S
+Chức Vụ: Nhan Vien
+Phòng Ban: Ban Thuoc
+Ngày Sinh: 28/6/1994
+Số Điện Thoại: 0977665544
+Địa Chỉ: Ha Noi
+Lương Cơ Bản: 9e+06
+Khen Thưởng: 5
+----------------------------------------
+Mã Nhân Viên: NV020
+Họ Tên: Tran Van T
+Chức Vụ: Truong Phong
+Phòng Ban: IT
+Ngày Sinh: 16/9/1981
+Số Điện Thoại: 0909443322
+Địa Chỉ: TP HCM
+Lương Cơ Bản: 1.5e+07
+Khen Thưởng: 5
+----------------------------------------
