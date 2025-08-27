@@ -3179,6 +3179,7 @@ int main()
         cout << "3. Thao tác với nhân viên" << endl;
         cout << "4. Thao tác với khách hàng" << endl;
         cout << "0. Thoát" << endl;
+        cout << "test"<<endl;
         int luachon;
         cout << "Bạn chọn: ";
         cin >> luachon;
